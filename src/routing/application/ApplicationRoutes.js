@@ -15,9 +15,9 @@ const {id} = useParams();
     <BrowserRouter>
         <Routes>
             <Route path='/' element={<ApplicationLayout/>}>
-                <Route index element={<HomePage/>}/>
-                <Route path='favorites' element={<NavigationTarget/>}/>
-                <Route path='movielist' element={<MovieList/>}/>
+                <Route  element={<HomePage/>}/>
+          
+                <Route index path='movielist' element={<MovieList/>}/>
              {/*    <Route path='moviedetails' element={<MovieDetails/>}/> */}
                 <Route path={"/movie/:id"} element={<MovieDetails/>}/>
             </Route>
