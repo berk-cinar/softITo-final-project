@@ -1,22 +1,16 @@
 import logo from './logo.svg';
 import './App.css';
+import GrandmaComponent from './context/GrandmaComponent';
+import { SituationInside } from './context/SituationInside';
+import { SituationOutside } from './context/SituationOutside';
+import { ApplicationRoutes } from './routing/application/ApplicationRoutes';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+
+        <ApplicationRoutes/>
       </header>
     </div>
   );

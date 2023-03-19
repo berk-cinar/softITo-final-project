@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "title": "The Shawshank Redemption",
+    "imdb":1.3,
+    "image":"https://upload.wikimedia.org/wikipedia/tr/e/e6/Esaretin-bedeli.jpg",
+    "director": "Frank Darabont",
+    "release_year": 1994,
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+  },
+  {
+    "id": 2,
+    "title": "The Godfather2",
+    "imdb":2.3,
+    "image":"https://www.hdfilmcehennemi.life/uploads/poster/district-13-ultimatum.jpg",
+    "director": "Francis Ford Coppola",
+    "release_year": 1972,
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+  },
+  {
+    "id": 3,
+    "title": "The Nightingale",
+    "imdb":3.3,
+    "image":"https://www.hdfilmcehennemi.life/uploads/poster/the-nightingale-izle.jpg",
+    "director": "Francis Ford Coppola",
+    "release_year": 1972,
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+  },
+  {
+    "id": 4,
+    "title": "The Godfather4",
+    "imdb":4.3,
+    "image":"https://www.hdfilmcehennemi.life/uploads/poster/cocaine-bear.jpg",
+    "director": "Francis Ford Coppola",
+    "release_year": 1972,
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+  },
+  {
+    "id": 5,
+    "title": "Le Roi Des Ombres",
+    "imdb":5.3,
+    "image":"https://www.hdfilmcehennemi.life/uploads/poster/in-his-shadow.jpg",
+    "director": "Francis Ford Coppola",
+    "release_year": 1972,
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+  },
+  {
+    "id": 6,
+    "title": "The Swallows of Kabul",
+    "imdb":6.3,
+    "image":"https://www.hdfilmcehennemi.life/uploads/poster/the-swallows-of-kabul.jpg",
+    "director": "Francis Ford Coppola",
+    "release_year": 1972,
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+  },
+  {
+    "id": 7,
+    "title": "The Jurassic Pet",
+    "imdb":7.3,
+    "image":"https://www.hdfilmcehennemi.life/uploads/poster/the-adventures-of-jurassic-pet.jpg",
+    "director": "Francis Ford Coppola",
+    "release_year": 1972,
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+  },
+  {
+    "id": 8,
+    "title": "The Time Trap",
+    "imdb":8.3,
+    "image":"https://www.hdfilmcehennemi.life/uploads/poster/time-trap-izle.jpg",
+    "director": "Francis Ford Coppola",
+    "release_year": 1972,
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+  }
+]
+      
