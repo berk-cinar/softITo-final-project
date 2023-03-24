@@ -2,73 +2,250 @@
   {
     "id": 1,
     "title": "The Shawshank Redemption",
-    "imdb":1.3,
+    "rating":3.1,
+    "genre1":"action",
+    "genre2":"drama",
     "image":"https://upload.wikimedia.org/wikipedia/tr/e/e6/Esaretin-bedeli.jpg",
     "director": "Frank Darabont",
     "release_year": 1994,
+    "quantity": 1,
+    "price": 59,
     "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
   },
   {
     "id": 2,
     "title": "The Godfather2",
-    "imdb":2.3,
+    "rating":2.3,
+    "genre1":"action",
+    "genre2":"drama",
+    
+    "price": 59,
     "image":"https://www.hdfilmcehennemi.life/uploads/poster/district-13-ultimatum.jpg",
     "director": "Francis Ford Coppola",
     "release_year": 1972,
+    "quantity": 1,
     "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
   },
   {
     "id": 3,
     "title": "The Nightingale",
-    "imdb":3.3,
+    "rating":3.3,
+    "genre1":"action",
+    
+    "price": 59,
+    "genre2":"drama",
     "image":"https://www.hdfilmcehennemi.life/uploads/poster/the-nightingale-izle.jpg",
     "director": "Francis Ford Coppola",
     "release_year": 1972,
+    "quantity": 1,
     "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
   },
   {
     "id": 4,
     "title": "Cocain Bear",
-    "imdb":4.3,
+    "rating":4.3,
+    "genre1":"nature",
+    
+    "price": 59,
+    "genre2":"horror",
     "image":"https://www.hdfilmcehennemi.life/uploads/poster/cocaine-bear.jpg",
     "director": "Francis Ford Coppola",
     "release_year": 1972,
+    "quantity": 1,
     "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
   },
   {
     "id": 5,
     "title": "Le Roi Des Ombres",
-    "imdb":5.3,
+    "rating":5.3,
+    
+    "price": 59,
+    "genre1":"action",
+    "genre2":"drama",
     "image":"https://www.hdfilmcehennemi.life/uploads/poster/in-his-shadow.jpg",
     "director": "Francis Ford Coppola",
     "release_year": 1972,
+    "quantity": 1,
     "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
   },
   {
     "id": 6,
     "title": "The Swallows of Kabul",
-    "imdb":6.3,
+    "rating":6.3,
+    "genre1":"biography",
+    "genre2":"drama",
+    
+    "price": 59,
     "image":"https://www.hdfilmcehennemi.life/uploads/poster/the-swallows-of-kabul.jpg",
     "director": "Francis Ford Coppola",
     "release_year": 1972,
+    "quantity": 1,
     "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
   },
   {
     "id": 7,
     "title": "The Jurassic Pet",
-    "imdb":7.3,
+    "rating":7.3,
+    "genre1":"action",
+    "genre2":"adventure",
+    
+    "price": 59,
     "image":"https://www.hdfilmcehennemi.life/uploads/poster/the-adventures-of-jurassic-pet.jpg",
     "director": "Francis Ford Coppola",
     "release_year": 1972,
+    "quantity": 1,
     "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
   },
   {
     "id": 8,
     "title": "The Time Trap",
-    "imdb":8.3,
+    "rating":9.3,
+    "genre1":"action",
+    
+    "price": 79,
+    "genre2":"fantasy",
     "image":"https://www.hdfilmcehennemi.life/uploads/poster/time-trap-izle.jpg",
     "director": "Francis Ford Coppola",
     "release_year": 1972,
+    "quantity": 1,
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+  },
+  {
+    "id": 9,
+    "title": "The Office",
+    "rating":9.3,
+    "genre1":"action",
+    
+    "price": 99,
+    "genre2":"fantasy",
+    "image":"https://m.media-amazon.com/images/I/51iMf-IoBeL._AC_UF894,1000_QL80_.jpg",
+    "director": "Francis Ford Coppola",
+    "release_year": 2001,
+    "quantity": 1,
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+  },
+  {
+    "id": 10,
+    "title": "Dead for a Dollar",
+    "rating":8.1,
+    "genre1":"action",
+    "genre2":"adventure",
+    "image":"https://www.hdfilmcehennemi.life/uploads/poster/dead-for-a-dollar.jpg",
+    "director": "Frank Darabont",
+    "release_year": 2022,
+    "quantity": 1,
+    "price": 39,
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+  },
+  {
+    "id": 11,
+    "title": "Furie",
+    "rating":7.4,
+    "genre1":"action",
+    "genre2":"drama",
+    
+    "price": 80,
+    "image":"https://www.hdfilmcehennemi.life/uploads/poster/furie-izle.jpg",
+    "director": "Francis Ford Coppola",
+    "release_year": 2019,
+    "quantity": 1,
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+  },
+  {
+    "id": 12,
+    "title": "The Nightingale",
+    "rating":3.3,
+    "genre1":"action",
+    
+    "price": 59,
+    "genre2":"drama",
+    "image":"https://www.hdfilmcehennemi.life/uploads/poster/the-nightingale-izle.jpg",
+    "director": "Francis Ford Coppola",
+    "release_year": 1972,
+    "quantity": 1,
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+  },
+  {
+    "id": 13,
+    "title": "Skin Trade",
+    "rating":9.3,
+    "genre1":"nature",
+    "price": 49,
+    "genre2":"horror",
+    "image":"https://www.hdfilmcehennemi.life/uploads/poster/hd-2-skin-trade-1080p-full-hd-film-izle.jpg",
+    "director": "Francis Ford Coppola",
+    "release_year": 2014,
+    "quantity": 1,
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+  },
+  {
+    "id": 14,
+    "title": "Merantau",
+    "rating":7.3,
+    
+    "price": 59,
+    "genre1":"action",
+    "genre2":"drama",
+    "image":"https://www.hdfilmcehennemi.life/uploads/poster/merantau.jpg",
+    "director": "Adry Adams",
+    "release_year": 1972,
+    "quantity": 1,
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+  },
+  {
+    "id": 15,
+    "title": "Shaft",
+    "rating":6.3,
+    "genre1":"biography",
+    "genre2":"drama",
+    
+    "price": 59,
+    "image":"https://www.hdfilmcehennemi.life/uploads/poster/shaft-1-korkusuz-izle-hd.jpg",
+    "director": "Francis Ford Coppola",
+    "release_year": 2014,
+    "quantity": 1,
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+  },
+  {
+    "id": 16,
+    "title": "The Revenant",
+    "rating":7.3,
+    "genre1":"action",
+    "genre2":"adventure",
+    
+    "price": 59,
+    "image":"https://www.hdfilmcehennemi.life/uploads/poster/hd-dirilis-film-izle.jpg",
+    "director": "Francis Ford Coppola",
+    "release_year": 2003,
+    "quantity": 1,
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+  },
+  {
+    "id": 17,
+    "title": "The Time Trap",
+    "rating":9.3,
+    "genre1":"action",
+    
+    "price": 59,
+    "genre2":"fantasy",
+    "image":"https://www.hdfilmcehennemi.life/uploads/poster/time-trap-izle.jpg",
+    "director": "Francis Ford Coppola",
+    "release_year": 1972,
+    "quantity": 1,
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+  },
+  {
+    "id": 18,
+    "title": "The Wind River",
+    "rating":9.3,
+    "genre1":"action",
+    
+    "price": 79.90,
+    "genre2":"fantasy",
+    "image":"https://www.hdfilmcehennemi.life/uploads/poster/1-kardakiizler-filmi-1080p-izle.jpg",
+    "director": "Francis Ford Coppola",
+    "release_year": 2001,
+    "quantity": 1,
     "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
   }
 ]

@@ -1,0 +1,22 @@
+[
+        {
+                "mail": "persona@gmail.com",
+                "password": "1234"
+        },
+        {
+                "mail": "ayşe@gmail.com",
+                "password": "1235"
+        },
+        {
+                "mail": "mehmet@gmail.com",
+                "password": "1236"
+        },
+        {
+                "mail": "burak@gmail.com",
+                "password": "1237"
+        },
+        {
+                "mail": "merve@gmail.com",
+                "password": "1238"
+        }
+]

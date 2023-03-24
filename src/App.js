@@ -1,8 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import GrandmaComponent from './context/GrandmaComponent';
-import { SituationInside } from './context/SituationInside';
-import { SituationOutside } from './context/SituationOutside';
+
 import { ApplicationRoutes } from './routing/application/ApplicationRoutes';
 
 function App() {
